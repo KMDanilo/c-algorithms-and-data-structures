@@ -1,0 +1,12 @@
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+.vscode/
+.idea/
+*.suo
+*.user
